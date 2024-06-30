@@ -38,5 +38,5 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-- Clone the repository: git clone https://github.com/Devadamdar69/credit-card-fraud-detection.git
+- Clone the repository: git clone https://github.com/Devadamdar69/credit-card-fraud-detection.git <br />
                         cd credit-card-fraud-detection
