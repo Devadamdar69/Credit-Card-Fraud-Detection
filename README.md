@@ -35,6 +35,7 @@ You can install the required libraries using:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 - Clone the repository: git clone https://github.com/Devadamdar69/credit-card-fraud-detection.git
