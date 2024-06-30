@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to build a machine learning model to detect fraudulent credit card transactions. The dataset used in this project contains transactions made by credit cards in September 2013 by European cardholders. The dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions.
+This project aims to build a machine learning model to detect fraudulent credit card transactions using the dataset provided by [this Kaggle project](https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models/input). The dataset contains transactions made by European cardholders in September 2013 over a span of two days. Out of 284,807 transactions, 492 were identified as fraudulent.
 
 ## Features
 
@@ -13,7 +13,7 @@ This project aims to build a machine learning model to detect fraudulent credit 
 
 ## Dataset
 
-The dataset used in this project can be found [here](https://www.kaggle.com/mlg-ulb/creditcardfraud). It contains the following features:
+The dataset used in this project can be found [here](https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models/input). It contains the following features:
 
 - **Time**: Number of seconds elapsed between this transaction and the first transaction in the dataset.
 - **V1-V28**: The result of a PCA transformation. These are the principal components obtained with PCA.
